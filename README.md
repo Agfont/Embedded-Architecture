@@ -1,10 +1,10 @@
 # Embedded-Architecture
 Embedded architecture course during the 2019–2020 year at the University of Barcelona.
 
-## Content
+## Content
 - [Syllabus](https://www.ub.edu/pladocent/?cod_giga=364306&curs=2019&idioma=cat)
 
-## Topics covered
+## Topics covered
 - Introduction to embedded systems
 - Microcontroller architecture
 - Programming embedded systems in C
